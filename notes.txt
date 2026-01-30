@@ -12,3 +12,6 @@ git push
 
 this is software defined network subject 
 and 1st lab of git hub 
+
+i am learning all the commands written above by performing them 
+on powershell after making clone of repo.

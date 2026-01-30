@@ -1,0 +1,11 @@
+Git & GitHub Study Notes
+
+Git = version control system  
+GitHub = online platform to store repositories  
+
+Commands learned:
+git clone
+git status
+git add
+git commit
+git push
